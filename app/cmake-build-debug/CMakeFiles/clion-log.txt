@@ -1,0 +1,8 @@
+C:\Users\jankl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\jankl\Documents\zmk\app
+CMake Error at cmake/zmk_config.cmake:149 (message):
+  Failed to locate keymap file!
+Call Stack (most recent call first):
+  CMakeLists.txt:14 (include)
+
+
+-- Configuring incomplete, errors occurred!
