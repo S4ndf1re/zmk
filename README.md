@@ -1,6 +1,5 @@
 # Zephyr™ Mechanical Keyboard (ZMK) Firmware German Layout Mapped Keys
 
-## WARNING: Not usable
 
 [![Discord](https://img.shields.io/discord/719497620560543766)](https://zmk.dev/community/discord/invite)
 [![Build](https://github.com/zmkfirmware/zmk/workflows/Build/badge.svg)](https://github.com/zmkfirmware/zmk/actions)
